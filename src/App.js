@@ -7,14 +7,14 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Search />
-      <footer>
+      <small>
         <a
           href="https://github.com/Superdegot/weather-react-hw4"
           target="_blank"
         >
           Open-source code by Ekaterina Filatova
         </a>
-      </footer>
+      </small>
     </div>
   );
 }
