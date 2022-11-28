@@ -11,6 +11,7 @@ function App() {
         <a
           href="https://github.com/Superdegot/weather-react-hw4"
           target="_blank"
+          rel="noreferrer"
         >
           Open-source code by Ekaterina Filatova
         </a>
